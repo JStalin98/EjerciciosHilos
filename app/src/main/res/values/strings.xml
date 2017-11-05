@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjerciciosHilos</string>
+
+    <string name="bt1">Hilos 1</string>
+
+    <string name="btComenzar">Comenzar</string>
+</resources>
