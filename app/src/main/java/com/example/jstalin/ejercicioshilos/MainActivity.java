@@ -18,4 +18,10 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this, Hilos1.class);
         startActivity(i);
     }
+
+    public void itenBt2(View v){
+
+        Intent i = new Intent(this, Factorial_AsynTask.class);
+        startActivity(i);
+    }
 }
